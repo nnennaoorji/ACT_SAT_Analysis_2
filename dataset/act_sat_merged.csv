@@ -1,0 +1,154 @@
+,state,sat_participation(%),sat_total,year,act_participation(%),act_total,test_policy
+0,Alabama,5,1165,2017,100,19.2,ACT required
+1,Alaska,38,1080,2017,65,19.8,neither required
+2,Arizona,30,1116,2017,62,19.7,neither required
+3,Arkansas,3,1208,2017,100,19.4,neither required
+4,California,53,1055,2017,31,22.8,neither required
+5,Colorado,11,1201,2017,100,20.8,SAT required
+6,Connecticut,100,1041,2017,31,25.2,SAT required
+7,Delaware,100,996,2017,18,24.1,SAT required
+8,District of Columbia,100,950,2017,32,24.2,neither required
+9,Florida,83,1017,2017,73,19.8,neither required
+10,Georgia,61,1050,2017,55,21.4,neither required
+11,Hawaii,55,1085,2017,90,19.0,ACT required
+12,Idaho,93,1005,2017,38,22.3,ACT or SAT
+13,Illinois,9,1115,2017,93,21.4,SAT required
+14,Indiana,63,1074,2017,35,22.6,neither required
+15,Iowa,2,1275,2017,67,21.9,neither required
+16,Kansas,4,1260,2017,73,21.7,neither required
+17,Kentucky,4,1247,2017,100,20.0,ACT required
+18,Louisiana,4,1198,2017,100,19.5,ACT required
+19,Maine,95,1012,2017,8,24.3,SAT required
+20,Maryland,69,1060,2017,28,23.6,neither required
+21,Massachusetts,76,1107,2017,29,25.4,neither required
+22,Michigan,100,1005,2017,29,24.1,SAT required
+23,Minnesota,3,1295,2017,100,21.5,neither required
+24,Mississippi,2,1242,2017,100,18.6,ACT required
+25,Missouri,3,1271,2017,100,20.4,ACT required
+26,Montana,10,1196,2017,100,20.3,ACT required
+27,Nebraska,3,1253,2017,84,21.4,ACT required
+28,Nevada,26,1116,2017,100,17.8,ACT required
+29,New Hampshire,96,1052,2017,18,25.5,SAT required
+30,New Jersey,70,1056,2017,34,23.9,neither required
+31,New Mexico,11,1138,2017,66,19.7,neither required
+32,New York,67,1052,2017,31,24.2,neither required
+33,North Carolina,49,1081,2017,100,19.1,ACT required
+34,North Dakota,2,1256,2017,98,20.3,ACT required
+35,Ohio,12,1149,2017,75,22.0,ACT or SAT
+36,Oklahoma,7,1047,2017,100,19.4,neither required
+37,Oregon,43,1108,2017,40,21.8,neither required
+38,Pennsylvania,65,1071,2017,23,23.7,neither required
+39,Rhode Island,71,1062,2017,21,24.0,SAT required
+40,South Carolina,50,1064,2017,100,18.7,neither required
+41,South Dakota,3,1216,2017,80,21.8,neither required
+42,Tennessee,5,1228,2017,100,19.8,ACT or SAT
+43,Texas,62,1020,2017,45,20.7,neither required
+44,Utah,3,1238,2017,100,20.3,ACT required
+45,Vermont,60,1114,2017,29,23.6,neither required
+46,Virginia,65,1102,2017,29,23.8,neither required
+47,Washington,64,1075,2017,29,21.9,neither required
+48,West Virginia,14,1086,2017,69,20.4,SAT required
+49,Wisconsin,3,1291,2017,100,20.5,ACT required
+50,Wyoming,3,1230,2017,100,20.2,ACT required
+51,Alabama,6,1166,2018,100,19.1,ACT required
+52,Alaska,43,1106,2018,33,20.8,neither required
+53,Arizona,29,1149,2018,66,19.2,neither required
+54,Arkansas,5,1169,2018,100,19.4,neither required
+55,California,60,1076,2018,27,22.7,neither required
+56,Colorado,100,1025,2018,30,23.9,SAT required
+57,Connecticut,100,1053,2018,26,25.6,SAT required
+58,Delaware,100,998,2018,17,23.8,SAT required
+59,District of Columbia,92,977,2018,32,23.6,neither required
+60,Florida,56,1099,2018,66,19.9,neither required
+61,Georgia,70,1064,2018,53,21.4,neither required
+62,Hawaii,56,1010,2018,89,18.9,ACT required
+63,Idaho,100,1001,2018,36,22.3,ACT or SAT
+64,Illinois,99,1019,2018,43,23.9,SAT required
+65,Indiana,63,1074,2018,32,22.5,neither required
+66,Iowa,3,1265,2018,68,21.8,neither required
+67,Kansas,4,1265,2018,71,21.6,neither required
+68,Kentucky,4,1248,2018,100,20.2,ACT required
+69,Louisiana,4,1210,2018,100,19.2,ACT required
+70,Maine,99,1013,2018,7,24.0,SAT required
+71,Maryland,76,1080,2018,31,22.5,neither required
+72,Massachusetts,80,1125,2018,25,25.5,neither required
+73,Michigan,100,1011,2018,22,24.2,SAT required
+74,Minnesota,4,1298,2018,99,21.3,neither required
+75,Mississippi,3,1236,2018,100,18.6,ACT required
+76,Missouri,4,1262,2018,100,20.0,ACT required
+77,Montana,10,1198,2018,100,20.0,ACT required
+78,Nebraska,3,1252,2018,100,20.1,ACT required
+79,Nevada,23,1140,2018,100,17.7,ACT required
+80,New Hampshire,96,1063,2018,16,25.1,SAT required
+81,New Jersey,82,1094,2018,31,23.7,neither required
+82,New Mexico,16,1093,2018,67,19.4,neither required
+83,New York,79,1068,2018,27,24.5,neither required
+84,North Carolina,52,1098,2018,100,19.1,ACT required
+85,North Dakota,2,1283,2018,98,20.3,ACT required
+86,Oklahoma,8,1062,2018,100,19.3,neither required
+87,Ohio,18,1099,2018,100,20.3,ACT or SAT
+88,Oregon,48,1117,2018,42,21.3,neither required
+89,Pennsylvania,70,1086,2018,20,23.5,neither required
+90,Rhode Island,97,1018,2018,15,24.2,SAT required
+91,South Carolina,55,1070,2018,100,18.3,neither required
+92,South Dakota,3,1240,2018,77,21.9,neither required
+93,Tennessee,6,1231,2018,100,19.6,ACT or SAT
+94,Texas,66,1032,2018,45,20.7,neither required
+95,Utah,4,1010,2018,100,20.4,ACT required
+96,Vermont,64,1120,2018,24,24.1,neither required
+97,Virginia,68,1117,2018,24,23.9,neither required
+98,Washington,69,1081,2018,24,22.2,neither required
+99,West Virginia,28,999,2018,65,20.3,SAT required
+100,Wisconsin,3,1294,2018,100,20.5,ACT required
+101,Wyoming,3,1257,2018,100,20.0,ACT required
+102,Alabama,7,1143,2019,100,18.9,ACT required
+103,Alaska,41,1097,2019,38,20.1,neither required
+104,Arizona,31,1134,2019,73,19.0,neither required
+105,Arkansas,6,1141,2019,100,19.3,neither required
+106,California,63,1065,2019,23,22.6,neither required
+107,Colorado,100,1024,2019,27,23.8,SAT required
+108,Connecticut,100,1046,2019,22,25.5,SAT required
+109,Delaware,100,985,2019,13,24.1,SAT required
+110,District of Columbia,94,975,2019,32,23.5,neither required
+111,Florida,100,999,2019,54,20.1,neither required
+112,Georgia,71,1058,2019,49,21.4,neither required
+113,Hawaii,54,1100,2019,80,19.0,ACT required
+114,Idaho,100,993,2019,31,22.5,ACT or SAT
+115,Illinois,100,1013,2019,35,24.3,SAT required
+116,Indiana,66,1080,2019,29,22.5,neither required
+117,Iowa,3,1244,2019,66,21.6,neither required
+118,Kansas,4,1241,2019,72,21.2,neither required
+119,Kentucky,4,1232,2019,100,19.8,ACT required
+120,Louisiana,5,1200,2019,100,18.8,ACT required
+121,Maine,99,1013,2019,6,24.3,SAT required
+122,Maryland,82,1058,2019,28,22.3,neither required
+123,Massachusetts,81,1120,2019,21,25.5,neither required
+124,Michigan,100,1003,2019,19,24.4,SAT required
+125,Minnesota,4,1284,2019,95,21.4,neither required
+126,Mississippi,3,1237,2019,100,18.4,ACT required
+127,Missouri,4,1236,2019,82,20.8,ACT required
+128,Montana,9,1199,2019,100,19.8,ACT required
+129,Nebraska,3,1260,2019,100,20.0,ACT required
+130,Nevada,20,1156,2019,100,17.9,ACT required
+131,New Hampshire,95,1059,2019,14,25.0,SAT required
+132,New Jersey,82,1090,2019,25,24.2,neither required
+133,New Mexico,18,1073,2019,63,19.3,neither required
+134,New York,79,1064,2019,22,24.5,neither required
+135,North Carolina,51,1100,2019,100,19.0,ACT required
+136,North Dakota,2,1263,2019,96,19.9,ACT required
+137,Ohio,19,1097,2019,100,20.0,ACT or SAT
+138,Oklahoma,22,963,2019,100,18.9,neither required
+139,Oregon,51,1112,2019,42,21.1,neither required
+140,Pennsylvania,70,1082,2019,17,23.6,neither required
+141,Rhode Island,100,995,2019,12,24.7,SAT required
+142,South Carolina,68,1030,2019,78,18.8,neither required
+143,South Dakota,3,1268,2019,75,21.6,neither required
+144,Tennessee,7,1220,2019,100,19.4,ACT or SAT
+145,Texas,68,1022,2019,39,20.5,neither required
+146,Utah,4,1230,2019,100,20.3,ACT required
+147,Vermont,66,1106,2019,20,24.1,neither required
+148,Virginia,68,1119,2019,21,24.0,neither required
+149,Washington,70,1074,2019,24,22.1,neither required
+150,West Virginia,99,943,2019,49,20.8,SAT required
+151,Wisconsin,3,1283,2019,100,20.3,ACT required
+152,Wyoming,3,1238,2019,100,19.8,ACT required
